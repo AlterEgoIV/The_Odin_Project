@@ -1,0 +1,17 @@
+img {
+    width: 400px;
+    height: auto;
+}
+
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: rgb(19, 139, 111);
+}
+
+h2 {
+    background-color: azure;
+    text-align: center;
+}
